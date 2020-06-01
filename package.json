@@ -1,5 +1,5 @@
 {
-  "name": "@appbricks/identity",
+  "name": "@appbricks/node-module-template",
   "version": "0.0.0",
   "description": "Node Typescript Module Template",
   "main": "lib/index.js",
