@@ -11,7 +11,7 @@ Analyse code for potential errors:
 npm run lint
 ```
 
-Fix formating that cause linting errors issues.
+Fix formating that cause linting errors.
 ```
 npm run lint-fix
 ```
